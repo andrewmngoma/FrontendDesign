@@ -1,0 +1,92 @@
+body {
+  background: rgba(255, 255, 255, 0.986);
+  color: rgb(0, 0, 0);
+}
+
+.custom-col {
+  flex: 1 1 18rem;
+  margin-bottom: 1rem;
+}
+
+.main-logo {
+  width: 3rem;
+}
+
+.bg-blue {
+  background-color: #38a9b9;
+}
+h3 {
+  color: whitesmoke;
+}
+
+.carousel-caption {
+  bottom: unset;
+  top: 15rem;
+  font-size: 200%;
+  text-shadow: 2px 2px black;
+}
+
+.custom-font {
+  font-family: "Unica One", cursive;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+selection {
+  padding: 0 100px;
+  background-image: url(/images/drone-2168938_1920.jpg);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.box {
+  position: relative;
+  max-width: 600px;
+  padding: 50px;
+  background: rgba(255, 255, 255, 0.404), 0.404;
+  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.5);
+}
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  /* background: #fff; */
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+::selection {
+  background-color: rgba(56, 185, 169, 0.8);
+  color: #b93848;
+}
