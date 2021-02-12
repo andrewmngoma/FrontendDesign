@@ -6,7 +6,7 @@ customers to view them.
 - I am open for feedback and opinions.
 - Run on vscode with some plugins for some great experience.
 
-# TODO: 
+### TODO: 
 - Make the site more functional.
 - Plugin some backend code.
 - Connect to a relational database.
